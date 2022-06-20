@@ -1,0 +1,1 @@
+Google Gson是一个简单的基于Java的库，用于将Java对象序列化为JSON，反之亦然
